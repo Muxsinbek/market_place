@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,I,CACE,Y,CACA,Q,CACA,wB","file":"style.min.css","sourcesContent":["body {\n  height: 100vh;\n  margin: 0;\n  background-color: #f3bcbc; }\n"]}
